@@ -1,5 +1,5 @@
 name 'adamcrews-pocketmine'
-version '0.0.1'
+version '0.0.2'
 description "This is a module to install and configure the minecraft pocket edition server."
 project_page 'https://github.com/adamcrews/puppet-pocketmine'
 summary 'Minecraft Pocket Edition'
